@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewsViewer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--追加部分-->
+    <string name="twitter_consumer_key">PZBtgXybcWIo1jaRv89fk0WUD</string>
+    <string name="twitter_consumer_secret">s8j5hhCw8q9tV6S7WcO5dKi2BfHc6Dn5sxKEOzicMsARJ5lDC9</string>
+    <string name="twitter_callback_url">test://twitter</string>
+    <string name="twitter_access_token">2394555997-siORQ5Vc4RrwfflynazoOO1jBP64tF0omwSVxeo</string>
+    <string name="twitter_access_token_secret"> lYZBFbglM7FZlZIM82tUTzecICXcIQB1u2leJd8XwjWmc</string>
+
+    <string name="menu_tweet">つぶやく</string>
+    <string name="menu_refresh">更新</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

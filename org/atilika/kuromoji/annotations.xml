@@ -1,0 +1,5 @@
+<root>
+    <item name='org.atilika.kuromoji.Token'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
